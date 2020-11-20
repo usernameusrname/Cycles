@@ -30,4 +30,4 @@
     
 ![cycles2](сс.PNG)
 ### Команди компіляції
-[file](#help.txt)
+git push help.txt
