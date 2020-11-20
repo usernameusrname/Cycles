@@ -29,4 +29,5 @@
 ![cycles1](Снимок.PNG)
     
 ![cycles2](сс.PNG)
-![file](help.txt)
+### Команди компіляції
+[file](#help.txt)
